@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/ctack-portfolio-site/static/css/main.a754f243.chunk.css",
-    "main.js": "/ctack-portfolio-site/static/js/main.28edabf2.chunk.js",
-    "main.js.map": "/ctack-portfolio-site/static/js/main.28edabf2.chunk.js.map",
-    "runtime-main.js": "/ctack-portfolio-site/static/js/runtime-main.c0b5b48a.js",
-    "runtime-main.js.map": "/ctack-portfolio-site/static/js/runtime-main.c0b5b48a.js.map",
-    "static/js/2.2b961d82.chunk.js": "/ctack-portfolio-site/static/js/2.2b961d82.chunk.js",
-    "static/js/2.2b961d82.chunk.js.map": "/ctack-portfolio-site/static/js/2.2b961d82.chunk.js.map",
+    "main.css": "/ctack-portfolio-site/static/css/main.24fd21b7.chunk.css",
+    "main.js": "/ctack-portfolio-site/static/js/main.347f7404.chunk.js",
+    "main.js.map": "/ctack-portfolio-site/static/js/main.347f7404.chunk.js.map",
+    "runtime-main.js": "/ctack-portfolio-site/static/js/runtime-main.ad430128.js",
+    "runtime-main.js.map": "/ctack-portfolio-site/static/js/runtime-main.ad430128.js.map",
+    "static/js/2.3e8172c4.chunk.js": "/ctack-portfolio-site/static/js/2.3e8172c4.chunk.js",
+    "static/js/2.3e8172c4.chunk.js.map": "/ctack-portfolio-site/static/js/2.3e8172c4.chunk.js.map",
     "index.html": "/ctack-portfolio-site/index.html",
-    "precache-manifest.e7d4406e4b7b8a1842d89fbef5ad9fb4.js": "/ctack-portfolio-site/precache-manifest.e7d4406e4b7b8a1842d89fbef5ad9fb4.js",
+    "precache-manifest.63578584550f1644969bbe14bf7b05de.js": "/ctack-portfolio-site/precache-manifest.63578584550f1644969bbe14bf7b05de.js",
     "service-worker.js": "/ctack-portfolio-site/service-worker.js",
-    "static/css/main.a754f243.chunk.css.map": "/ctack-portfolio-site/static/css/main.a754f243.chunk.css.map",
+    "static/css/main.24fd21b7.chunk.css.map": "/ctack-portfolio-site/static/css/main.24fd21b7.chunk.css.map",
+    "static/js/2.3e8172c4.chunk.js.LICENSE.txt": "/ctack-portfolio-site/static/js/2.3e8172c4.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ctack-portfolio-site/static/media/ChrisTack.64b13ae2.png",
     "static/media/Home.css": "/ctack-portfolio-site/static/media/brand-color.f3b996c3.png",
     "static/media/headshot.jpg": "/ctack-portfolio-site/static/media/headshot.9fe2bacc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0b5b48a.js",
-    "static/js/2.2b961d82.chunk.js",
-    "static/css/main.a754f243.chunk.css",
-    "static/js/main.28edabf2.chunk.js"
+    "static/js/runtime-main.ad430128.js",
+    "static/js/2.3e8172c4.chunk.js",
+    "static/css/main.24fd21b7.chunk.css",
+    "static/js/main.347f7404.chunk.js"
   ]
 }
